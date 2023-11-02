@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
+
+.body{
+  font-family: 'Nunito', serif;
+}
+
+.App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color: #5C5470;
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
