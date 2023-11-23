@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d031f38a.css",
+    "main.js": "/static/js/main.e5ee841e.js",
+    "static/media/cover menu.jpg": "/static/media/cover menu.b4f6d791b51a7edc03eb.jpg",
+    "static/media/sweets.jpg": "/static/media/sweets.c9292e8acd2809c5b782.jpg",
+    "static/media/coffee.jpg": "/static/media/coffee.c37a02ddd6610917d783.jpg",
+    "static/media/contact.jpg": "/static/media/contact.ad14137327159251d505.jpg",
+    "static/media/cover.jpg": "/static/media/cover.614c6ea8382989668f77.jpg",
+    "static/media/about5.jpg": "/static/media/about5.2f2f3a5b1376278e26b3.jpg",
+    "static/media/burger.jpg": "/static/media/burger.9612cdb3a21e28df2b6c.jpg",
+    "static/media/about3.jpg": "/static/media/about3.af2681ef76c837ff68f8.jpg",
+    "static/media/about1.jpg": "/static/media/about1.5fd5ac9a02479182a72e.jpg",
+    "static/media/ceasar-salad.jpg": "/static/media/ceasar-salad.eb519bba6757b14490c0.jpg",
+    "static/media/about6.jpg": "/static/media/about6.701e40f1407a8bdf22cd.jpg",
+    "static/media/cocktail.jpg": "/static/media/cocktail.7341c8ccabed19442d25.jpg",
+    "static/media/wings.jpg": "/static/media/wings.7364437b60da77a0c77e.jpg",
+    "static/media/vegan-burger.jpg": "/static/media/vegan-burger.feafa008eeb70971db63.jpg",
+    "static/media/steak.jpg": "/static/media/steak.67afeafd7604fb3a88d8.jpg",
+    "static/media/about2.jpg": "/static/media/about2.5974cb51cd3d3f43273d.jpg",
+    "static/media/fish-n-chip.jpg": "/static/media/fish-n-chip.830300cdf6e49fdc32a9.jpg",
+    "static/media/salad.jpg": "/static/media/salad.4dfffa8bf72762cb9c31.jpg",
+    "static/media/paelia.jpg": "/static/media/paelia.0447233416fb9b4881c8.jpg",
+    "static/media/about4.jpg": "/static/media/about4.976c50a71a7bde7823dd.jpg",
+    "static/media/about9.jpg": "/static/media/about9.f8e0f944da8a601b1914.jpg",
+    "static/media/about8.jpg": "/static/media/about8.f5b2d49cfa7b9b5798af.jpg",
+    "static/media/about7.jpg": "/static/media/about7.9fccdf4112da7e5aa670.jpg",
+    "index.html": "/index.html",
+    "main.d031f38a.css.map": "/static/css/main.d031f38a.css.map",
+    "main.e5ee841e.js.map": "/static/js/main.e5ee841e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d031f38a.css",
+    "static/js/main.e5ee841e.js"
+  ]
+}
