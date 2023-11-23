@@ -6,7 +6,6 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import "../styles/footer.css"
 
 export default function Footer() {
-    const currentYear = new Date().getFullYear();
 
     const icons = [
         { icon: InstagramIcon, link: "/", name: "Instagram" },
@@ -38,7 +37,7 @@ export default function Footer() {
 
                 <div className="footer-icons">
                     {icons.map((icon, index) => {
-                        const { icon: Icon, link, name } = icon;
+                        const { icon: Icon, link } = icon;
                         return (
                             <a key={index} href={link}>
                                 <Icon />
