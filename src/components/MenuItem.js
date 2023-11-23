@@ -1,12 +1,20 @@
 import React from 'react'
+import "../styles/menuitem.css"
 
-function MenuItem({image,name,price}) {
+function MenuItem({image,title, price}) {
   return (
-    <div className='menuItem'>
-        <div style={{backgroundImage  : `url(${image})`}}></div>
-        <h1>{name}</h1>
-        <p>Price : {price} $</p>
-    </div>
+   
+     <article>
+     <div className="article-wrapper">
+       <figure>
+         <img src={image} alt="logo" />
+       </figure>
+       <div className="article-body">
+         <h2>{title}</h2>
+         <p>{price} $</p>
+       </div>
+     </div>
+   </article>
   )
 }
 

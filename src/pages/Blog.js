@@ -3,7 +3,7 @@ import "../styles/blog.css"
 import cocktail from "../assets/images/cocktail.jpg"
 import coffee from "../assets/images/coffee.jpg"
 import sweets from "../assets/images/sweets.jpg"
-import burger from "../assets/images/burger.jpg"
+import burger from "../assets/images/menu/burger.jpg"
 
 
 const projectData = [

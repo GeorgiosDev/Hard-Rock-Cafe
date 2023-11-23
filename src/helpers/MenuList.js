@@ -1,11 +1,11 @@
-import wings from "../assets/images/wings.jpg"
-import ceasar from "../assets/images/ceasar-salad.jpg"
-import cheeseburger from "../assets/images/cheeseburger.jpg"
-import fish from "../assets/images/fish-n-chip.jpg"
-import paelia from "../assets/images/paelia.jpg"
+import wings from "../assets/images/menu/wings.jpg"
+import ceasar from "../assets/images/menu/ceasar-salad.jpg"
+import cheeseburger from "../assets/images/menu/burger.jpg"
+import fish from "../assets/images/menu/fish-n-chip.jpg"
+import paelia from "../assets/images/menu/paelia.jpg"
 import vegan from "../assets/images/vegan-burger.jpg"
-import salad1 from "../assets/images/salad.jpg"
-import steak from"../assets/images/steak.jpg"
+import salad1 from "../assets/images/menu/salad.jpg"
+import steak from"../assets/images/menu/steak.jpg"
 
 
 
